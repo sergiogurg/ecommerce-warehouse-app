@@ -1,0 +1,54 @@
+[
+    {
+      "id": 3,
+      "name": "Galpão Fortaleza",
+      "code": "FOR",
+      "city": "Fortaleza",
+      "area": 34500,
+      "created_at": "2022-05-05T03:50:30.143Z",
+      "updated_at": "2022-05-05T03:50:30.143Z",
+      "address": "Av. Silas Munguba, 150",
+      "postal_code": "60818-159",
+      "description": "Galpão de FortalCity",
+      "state": "Ceará"
+    },
+    {
+      "id": 4,
+      "name": "Galpão Jampa",
+      "code": "JPA",
+      "city": "João Pessoa",
+      "area": 21500,
+      "created_at": "2022-05-05T13:26:16.953Z",
+      "updated_at": "2022-05-05T13:26:16.953Z",
+      "address": "Avenida do aeroporto, 1501",
+      "postal_code": "78150-618",
+      "description": "Galpão do aeroporto de João Pessoa",
+      "state": "Paraíba"
+    },
+    {
+      "id": 2,
+      "name": "Galpão Maceió",
+      "code": "MCZ",
+      "city": "Maceió",
+      "area": 50000,
+      "created_at": "2022-05-04T12:42:53.221Z",
+      "updated_at": "2022-05-04T18:47:19.276Z",
+      "address": "Rua do Jacintinho, 59",
+      "postal_code": "35106-959",
+      "description": "Galpão localizado no setor industrial de Maceió",
+      "state": "AL"
+    },
+    {
+      "id": 1,
+      "name": "Galpão Rio",
+      "code": "SDU",
+      "city": "Rio de Janeiro",
+      "area": 1151,
+      "created_at": "2022-05-02T18:34:01.228Z",
+      "updated_at": "2022-05-10T03:38:14.658Z",
+      "address": "Avenida Atlantica, 10",
+      "postal_code": "20000-000",
+      "description": "Galpão do aeroporto Santos Dumont (Rio de Janeiro-RJ)",
+      "state": "RJ"
+    }
+  ]
