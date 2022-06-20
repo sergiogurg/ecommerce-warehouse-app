@@ -6,10 +6,10 @@
   <% @warehouses.each do |w| %>
   <div>
     <dl>
-      <dt><%= link_to w["name"], warehouse_path(w["id"]) %></dt>
-      <dd><%= w["code"] %></dd>
-      <dd><%= w["city"] %></dd>
-      <dd><%= w["area"] %></dd>
+      <dt><%= link_to w.name, warehouse_path(w.id) %></dt>
+      <dd><%= w.code %></dd>
+      <dd><%= w.city %></dd>
+      <dd><%= w.area %></dd>
     </dl>
   </div>
   <% end %>
